@@ -1604,6 +1604,10 @@ textarea::placeholder {
     margin: 40px 0;
   }
 
+  .footer__navigation-item:not(:last-child) {
+    margin-right: 30px;
+  }
+
   .hero {
     margin-bottom: 2.1875rem;
     padding-bottom: 116px;
